@@ -1,4 +1,4 @@
-# Grupo 2 Metodología de Desarrollo de Software
+# Grupo 7 Metodología de Desarrollo de Software
 Este repositorio fue creado para almacenar la información del proyecto de metodología del grupo 7.
 
 Integrantes:
