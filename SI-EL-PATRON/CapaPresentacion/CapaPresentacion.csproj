@@ -67,13 +67,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Consultas\FrmConsulta_Stock_Articulos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Consultas\FrmConsulta_Stock_Articulos.Designer.cs">
-      <DependentUpon>FrmConsulta_Stock_Articulos.cs</DependentUpon>
-    </Compile>
     <Compile Include="dsPrincipal.cs">
       <DependentUpon>dsPrincipal.xsd</DependentUpon>
     </Compile>
@@ -124,12 +117,6 @@
     <Compile Include="frmPrincipal.Designer.cs">
       <DependentUpon>frmPrincipal.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmProveedor.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmProveedor.Designer.cs">
-      <DependentUpon>FrmProveedor.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmRelleno.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -141,12 +128,6 @@
     </Compile>
     <Compile Include="frmTrabajador.Designer.cs">
       <DependentUpon>frmTrabajador.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FrmVenta.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmVenta.Designer.cs">
-      <DependentUpon>FrmVenta.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmVistaArticulo_Ingreso.cs">
       <SubType>Form</SubType>
@@ -172,12 +153,6 @@
     <Compile Include="FrmVistaCliente_Venta.Designer.cs">
       <DependentUpon>FrmVistaCliente_Venta.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmVistaProveedor_Ingreso.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmVistaProveedor_Ingreso.Designer.cs">
-      <DependentUpon>FrmVistaProveedor_Ingreso.cs</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -189,18 +164,6 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
-    <Compile Include="Reportes\FrmReporteArticulos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Reportes\FrmReporteArticulos.Designer.cs">
-      <DependentUpon>FrmReporteArticulos.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Reportes\FrmReporteFactura.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Reportes\FrmReporteFactura.Designer.cs">
-      <DependentUpon>FrmReporteFactura.cs</DependentUpon>
-    </Compile>
     <Compile Include="SqlServerTypes\Loader.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -210,9 +173,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Consultas\FrmConsulta_Stock_Articulos.resx">
-      <DependentUpon>FrmConsulta_Stock_Articulos.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="frmArticulo.resx">
       <DependentUpon>frmArticulo.cs</DependentUpon>
     </EmbeddedResource>
@@ -235,17 +195,11 @@
       <DependentUpon>frmPrincipal.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmProveedor.resx">
-      <DependentUpon>FrmProveedor.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="frmRelleno.resx">
       <DependentUpon>frmRelleno.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTrabajador.resx">
       <DependentUpon>frmTrabajador.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FrmVenta.resx">
-      <DependentUpon>FrmVenta.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmVistaArticulo_Ingreso.resx">
       <DependentUpon>FrmVistaArticulo_Ingreso.cs</DependentUpon>
@@ -259,22 +213,11 @@
     <EmbeddedResource Include="FrmVistaCliente_Venta.resx">
       <DependentUpon>FrmVistaCliente_Venta.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmVistaProveedor_Ingreso.resx">
-      <DependentUpon>FrmVistaProveedor_Ingreso.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Reportes\FrmReporteArticulos.resx">
-      <DependentUpon>FrmReporteArticulos.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Reportes\FrmReporteFactura.resx">
-      <DependentUpon>FrmReporteFactura.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Reportes\rptArticulos.rdlc" />
-    <EmbeddedResource Include="Reportes\rptComprobanteFactura.rdlc" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

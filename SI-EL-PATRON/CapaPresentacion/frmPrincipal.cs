@@ -71,15 +71,7 @@ namespace CapaPresentacion
         {
         }
 
-        private void ToolBarToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            toolStrip.Visible = toolBarToolStripMenuItem.Checked;
-        }
 
-        private void StatusBarToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            statusStrip.Visible = statusBarToolStripMenuItem.Checked;
-        }
 
         private void CascadeToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -148,12 +140,6 @@ namespace CapaPresentacion
             frm.Idtrabajador = Convert.ToInt32(this.Idtrabajador);
         }
 
-        private void ProveedorToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            FrmProveedor frm = new FrmProveedor();
-            frm.MdiParent = this;
-            frm.Show();
-        }
 
         private void ClientesToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -181,11 +167,7 @@ namespace CapaPresentacion
                 this.MnuVentas.Enabled = true;
 
                 this.MnuMantenimiento.Enabled = true;
-                this.MnuConsultas.Enabled = true;
-                this.MnuHerramientas.Enabled = true;
 
-                this.TsCompras.Enabled = true;
-                this.TsVentas.Enabled = true;
             }
             else if (Acceso=="Vendedor")
             {
@@ -195,11 +177,7 @@ namespace CapaPresentacion
                 this.MnuVentas.Enabled = true;
 
                 this.MnuMantenimiento.Enabled = false;
-                this.MnuConsultas.Enabled = true;
-                this.MnuHerramientas.Enabled = true;
 
-                this.TsCompras.Enabled = false;
-                this.TsVentas.Enabled = true;
             }
             else if (Acceso == "Almacenero")
             {
@@ -209,11 +187,7 @@ namespace CapaPresentacion
                 this.MnuVentas.Enabled = false;
 
                 this.MnuMantenimiento.Enabled = false;
-                this.MnuConsultas.Enabled = true;
-                this.MnuHerramientas.Enabled = true;
 
-                this.TsCompras.Enabled = true;
-                this.TsVentas.Enabled = false;
             }
             else 
             {
@@ -223,28 +197,12 @@ namespace CapaPresentacion
                 this.MnuVentas.Enabled = false;
 
                 this.MnuMantenimiento.Enabled = false;
-                this.MnuConsultas.Enabled = false;
-                this.MnuHerramientas.Enabled = false;
 
-                this.TsCompras.Enabled = false;
-                this.TsVentas.Enabled = false;
             }
         }
 
-        private void VentasToolStripMenuItem1_Click(object sender, EventArgs e)
-        {
-            FrmVenta frm = FrmVenta.GetInstancia();
-            frm.MdiParent = this;
-            frm.Show();
-            frm.Idtrabajador = Convert.ToInt32(this.Idtrabajador);
-        }
+ 
 
-        private void StockDeArtículosToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Consultas.FrmConsulta_Stock_Articulos frm = new Consultas.FrmConsulta_Stock_Articulos();
-            frm.MdiParent = this;
-            frm.Show();
-        }
 
         private void MnuConsultas_Click(object sender, EventArgs e)
         {
@@ -260,13 +218,7 @@ namespace CapaPresentacion
             frm.Idtrabajador = Convert.ToInt32(this.Idtrabajador);
         }
 
-        private void VentasToolStripMenuItem2_Click(object sender, EventArgs e)
-        {
-            FrmVenta frm = FrmVenta.GetInstancia();
-            frm.MdiParent = this;
-            frm.bOcultarMantenimiento = true;
-            frm.Show();
-            frm.Idtrabajador = Convert.ToInt32(this.Idtrabajador);
-        }
+
+
     }
 }
