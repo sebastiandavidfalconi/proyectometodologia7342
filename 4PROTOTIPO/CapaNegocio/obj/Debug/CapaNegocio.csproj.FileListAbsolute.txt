@@ -9,3 +9,14 @@ C:\Users\emili\Desktop\SisVentas-main\SisVentas\CapaNegocio\obj\Debug\CapaNegoci
 C:\Users\emili\Desktop\SisVentas-main\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
 C:\Users\emili\Desktop\SisVentas-main\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\emili\Desktop\SisVentas-main\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\sebas\Desktop\New folder\New folder (2)\New folder\New folder (2)\ProyectoMetodologia\proyectometodologia7342\4PROTOTIPO\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\sebas\Desktop\New folder\New folder (2)\New folder\New folder (2)\ProyectoMetodologia\proyectometodologia7342\4PROTOTIPO\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\sebas\Desktop\New folder\New folder (2)\New folder\New folder (2)\ProyectoMetodologia\proyectometodologia7342\4PROTOTIPO\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\sebas\Desktop\New folder\New folder (2)\New folder\New folder (2)\ProyectoMetodologia\proyectometodologia7342\4PROTOTIPO\CapaNegocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\sebas\Desktop\New folder\New folder (2)\New folder\New folder (2)\ProyectoMetodologia\proyectometodologia7342\4PROTOTIPO\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\sebas\Desktop\New folder\New folder (2)\New folder\New folder (2)\ProyectoMetodologia\proyectometodologia7342\4PROTOTIPO\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\sebas\Desktop\New folder\New folder (2)\New folder\New folder (2)\ProyectoMetodologia\proyectometodologia7342\4PROTOTIPO\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\New folder\New folder (2)\New folder\New folder (2)\ProyectoMetodologia\proyectometodologia7342\4PROTOTIPO\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\New folder\New folder (2)\New folder\New folder (2)\ProyectoMetodologia\proyectometodologia7342\4PROTOTIPO\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\sebas\Desktop\New folder\New folder (2)\New folder\New folder (2)\ProyectoMetodologia\proyectometodologia7342\4PROTOTIPO\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\sebas\Desktop\New folder\New folder (2)\New folder\New folder (2)\ProyectoMetodologia\proyectometodologia7342\4PROTOTIPO\CapaNegocio\obj\Debug\CapaNegocio.pdb
