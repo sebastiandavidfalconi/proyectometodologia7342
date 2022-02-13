@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25259c3a-bc77-472a-8359-7f3ee71fdaad": {
+      "ProjectGuid": "25259c3a-bc77-472a-8359-7f3ee71fdaad",
+      "DisplayName": "CapaPresentacion",
+      "ColorIndex": 0
+    },
+    "62c2b7a1-ce72-40ff-99e4-d6b9dab781b7": {
+      "ProjectGuid": "62c2b7a1-ce72-40ff-99e4-d6b9dab781b7",
+      "DisplayName": "CapaDatos",
+      "ColorIndex": 1
+    },
+    "0ab8e8da-0341-45be-9298-fab08d042769": {
+      "ProjectGuid": "0ab8e8da-0341-45be-9298-fab08d042769",
+      "DisplayName": "SisVentasPruebas",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
