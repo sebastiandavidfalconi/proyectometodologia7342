@@ -1,0 +1,27 @@
+C:\Users\emili\Desktop\SisVentas-main\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\emili\Desktop\SisVentas-main\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\emili\Desktop\SisVentas-main\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\emili\Desktop\SisVentas-main\SisVentas\CapaDatos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\emili\Desktop\SisVentas-main\SisVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\emili\Desktop\SisVentas-main\SisVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\emili\Desktop\SisVentas-main\SisVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\emili\Desktop\SisVentas-main\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\emili\Desktop\SisVentas-main\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\emili\Desktop\SisVentas-main\SisVentas\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\emili\Desktop\SisVentas-main\SisVentas\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\emili\Desktop\SisVentas-main\SisVentas\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\emili\Desktop\SisVentas-main\SisVentas\SisVentas\CapaDatos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\emili\Desktop\SisVentas-main\SisVentas\SisVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\emili\Desktop\SisVentas-main\SisVentas\SisVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\emili\Desktop\SisVentas-main\SisVentas\SisVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\emili\Desktop\SisVentas-main\SisVentas\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\emili\Desktop\SisVentas-main\SisVentas\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\sebas\Desktop\Proyecto Patron\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\sebas\Desktop\Proyecto Patron\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\sebas\Desktop\Proyecto Patron\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\sebas\Desktop\Proyecto Patron\CapaDatos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\sebas\Desktop\Proyecto Patron\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\Proyecto Patron\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\Proyecto Patron\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\sebas\Desktop\Proyecto Patron\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\sebas\Desktop\Proyecto Patron\CapaDatos\obj\Debug\CapaDatos.pdb
