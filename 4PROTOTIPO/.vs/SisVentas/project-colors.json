@@ -10,12 +10,7 @@
       "ProjectGuid": "62c2b7a1-ce72-40ff-99e4-d6b9dab781b7",
       "DisplayName": "CapaDatos",
       "ColorIndex": 1
-    },
-    "0ab8e8da-0341-45be-9298-fab08d042769": {
-      "ProjectGuid": "0ab8e8da-0341-45be-9298-fab08d042769",
-      "DisplayName": "SisVentasPruebas",
-      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 2
 }
